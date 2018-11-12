@@ -1,40 +1,39 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgba(231, 35, 35, 0.918);
-    
+    background-image: linear-gradient(to left,#f25c12, #db2031 );  
 }
-
+    
 .container{
-    max-width: 1200px;
-    margin: 25px auto;
-   
+    max-width: 900px;
+    margin: auto;
+     
 }
 
 .wrapper{
-  
-    text-align: center;
-    display: flex;
+  display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 28rem;
+    height: 25rem;
+    margin: 2rem;
 }
 
 
 .first{
     display: flex;
     justify-content: space-between;
-    
-    
-    
-    
 }
+
+
+
 .box1{
     border: 1px solid;
     flex-basis: 30%;
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
     
 }
 
@@ -49,6 +48,8 @@ body{
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
     
 }
 .third{
@@ -62,6 +63,8 @@ body{
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
 }
 
 .fourth{
@@ -75,6 +78,8 @@ body{
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
 }
 
 .fifth{
@@ -87,6 +92,8 @@ body{
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
 }
 .box-half{
     border: 1px solid;
@@ -94,6 +101,8 @@ body{
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
 }
 
 .sixth{
@@ -107,6 +116,8 @@ body{
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
     
 }
 
@@ -116,6 +127,8 @@ body{
     text-align: center;
     color: #ffff;
     background-color: rgb(165, 62, 62);
+    border-radius: 5px;
+    text-transform: capitalize;
     
 }
 
