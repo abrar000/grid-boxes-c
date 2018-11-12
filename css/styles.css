@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(231, 35, 35, 0.918);
+    
+}
+
+.container{
+    max-width: 1200px;
+    margin: 25px auto;
+   
+}
+
+.wrapper{
+  
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 28rem;
+}
+
+
+.first{
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+    
+}
+.box1{
+    border: 1px solid;
+    flex-basis: 30%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+    
+}
+
+.second{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.box2{
+    border: 1px solid;
+    flex-basis: 48%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+    
+}
+.third{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.box3{
+    border: 1px solid;
+    flex-basis: 22%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+}
+
+.fourth{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.box4{
+    border: 1px solid;
+    flex-basis: 13.4%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+}
+
+.fifth{
+    display: flex;
+    justify-content: space-between; 
+}
+.box5{
+    border: 1px solid;
+    flex-basis: 22.1%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+}
+.box-half{
+    border: 1px solid;
+    flex-basis: 48%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+}
+
+.sixth{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.box6{
+    border: 1px solid;
+    flex-basis: 13%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+    
+}
+
+.box-large{
+    border: 1px solid;
+    flex-basis: 65.5%;
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(165, 62, 62);
+    
+}
+
+/* ---------------media query ----------------- */
+
+/* @media all and (max-width:800px){
+    .wrapper{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media all and (max-width:500px){
+    .box1, .box2, .box3, .box4, .box5, .box6, .box-half, .box-large{
+        display: flex;
+        flex-wrap: wrap;
+    }
+} */
+
+
+
+
